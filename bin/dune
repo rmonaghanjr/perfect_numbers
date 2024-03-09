@@ -1,4 +1,4 @@
 (executable
  (public_name perfect_numbers)
  (name main)
- (libraries perfect_numbers))
+ (libraries big_int))
